@@ -1,6 +1,0 @@
-C:\Users\MrCaniwes\source\repos\Yazilim.shop Animations\Yazilim.shop Animations\bin\Debug\Yazilim.shop Animations.dll
-C:\Users\MrCaniwes\source\repos\Yazilim.shop Animations\Yazilim.shop Animations\bin\Debug\Yazilim.shop Animations.pdb
-C:\Users\MrCaniwes\source\repos\Yazilim.shop Animations\Yazilim.shop Animations\obj\Debug\Yazilim.shop Animations.csproj.AssemblyReference.cache
-C:\Users\MrCaniwes\source\repos\Yazilim.shop Animations\Yazilim.shop Animations\obj\Debug\Yazilim.shop Animations.csproj.CoreCompileInputs.cache
-C:\Users\MrCaniwes\source\repos\Yazilim.shop Animations\Yazilim.shop Animations\obj\Debug\Yazilim.shop Animations.dll
-C:\Users\MrCaniwes\source\repos\Yazilim.shop Animations\Yazilim.shop Animations\obj\Debug\Yazilim.shop Animations.pdb
